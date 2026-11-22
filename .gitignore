@@ -1,0 +1,12 @@
+# Runtime state & secrets
+config.json
+links.json
+status.json
+.env
+.env.*
+!.env.example
+
+# Logs & Python cache
+*.log
+__pycache__/
+*.py[cod]
